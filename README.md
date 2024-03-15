@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python frameworks**
 
-- 💬 Ask me about **Python,c++,html and css**
+- 💬 Ask me about **Movies,Games and F1**
 
 - 📫 How to reach me **bhamrahprathampal.work@gmail.com**
 
