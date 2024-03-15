@@ -1,7 +1,7 @@
 ![logo](https://github.com/prathampalsingh/Prathampalsingh/blob/main/IMG_20240315_084310.jpg)
 <h1 align="center">Hi 👋, I'm PrathamPal Singh</h1>
 <h3 align="center">A Quick learner who was not quick to start coding sooner</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/YZRTayPp3WGrJgQN6">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/NSafnDqVBTaD5EG66">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathampalsingh&label=Profile%20views&color=0e75b6&style=flat" alt="prathampalsingh" /> </p>
 
 - 🔭 I’m currently working on **Indian sign language recognition**
