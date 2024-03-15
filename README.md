@@ -1,3 +1,4 @@
+![logo](https://github.com/prathampalsingh/Prathampalsingh/blob/main/IMG_20240315_084310.jpg)
 <h1 align="center">Hi 👋, I'm PrathamPal Singh</h1>
 <h3 align="center">A Quick learner who was not quick to start coding sooner</h3>
 <img align="right" alt="coding" width="400" src=https://images.app.goo.gl/YZRTayPp3WGrJgQN6>
