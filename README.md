@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bhamrahprathampal.work@gmail.com**
 
-- ⚡ Fun fact **I conquer digital landscapes in the world of gaming**
+- ⚡ Fun fact: **I conquer digital landscapes in the world of gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
